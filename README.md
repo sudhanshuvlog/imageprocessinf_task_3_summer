@@ -1,1 +1,1 @@
-# imageprocessinf_task_3_summer
+# imageprocessing_task_3_summer
